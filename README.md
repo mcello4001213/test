@@ -1,1 +1,3 @@
-S	I am editing the README file. Adding some more details about the project description.
+# Block Access ke Microsoft / Office 365 pada Waktu Tertentu saja
+
+Solusi ini untuk membatasi akses ke Microsoft / Office 365 di Periode waktu tertentu saja.

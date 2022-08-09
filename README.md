@@ -9,9 +9,9 @@ Solusi ini untuk membatasi akses ke Microsoft / Office 365 di Periode waktu tert
 
 # Install Module, Config file, modify with your data and credentials before running the script
 • Install Modul -> 'requests' di Python anda
+
 • Ubah variabel yang berada di dalam file dan sesuaikan dengan data yang anda punya
 
 
-# Images of how script works
 
 
